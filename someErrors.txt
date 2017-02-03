@@ -1,0 +1,182 @@
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : add
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : a
+Enter the name: gibberish
+Enter the address: gibberish
+Place not found using address: gibberish
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : a
+Enter the name: Good
+Enter the address: Good
+
+My Favorite Places 2016
+--------------------------
+1) Good
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : s
+Enter number of place to Show: 1
+Good
+Good, Trout Run, PA 17771, USA
+41.422267,-76.835156
+https://www.google.com/maps/place/Good%2C+Trout+Run%2C+PA+17771%2C+USA/@41.422267,-76.835156,17z/
+Press Enter to continue.ksfjlskf
+
+My Favorite Places 2016
+--------------------------
+1) Good
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : a
+Enter the name: Evil
+Enter the address: Evil
+
+My Favorite Places 2016
+--------------------------
+1) Evil
+2) Good
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : c
+Enter number of place to be Current place: 2
+Good set as Current place.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Good
+1) Good (0.00 miles)
+2) Evil (718.42 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : ;lasjf
+
+My Favorite Places 2016
+--------------------------
+distance from Good
+1) Good (0.00 miles)
+2) Evil (718.42 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : d
+Enter number of place to Delete: 2
+Evil deleted.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Good
+1) Good (0.00 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : r
+Available Files:
+	uwplaces.mfp
+	uwplaces2.mfp
+	uwplacesNew.mfp
+
+Enter filename: uwplaces.mfp
+
+My Favorite Places 2016
+--------------------------
+distance from Good
+1) Good (0.00 miles)
+2) Wisconsin State Capital (651.29 miles)
+3) Kohl Center (651.91 miles)
+4) Memorial Union (652.08 miles)
+5) Computer Sciences (652.40 miles)
+6) Union South (652.47 miles)
+7) Washburn Observatory (652.62 miles)
+8) Health Sciences Learning Center (653.62 miles)
+9) Waisman Center (653.82 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : d
+Enter number of place to Delete: 1
+Good deleted.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+1) Computer Sciences
+2) Health Sciences Learning Center
+3) Kohl Center
+4) Memorial Union
+5) Union South
+6) Waisman Center
+7) Washburn Observatory
+8) Wisconsin State Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : c 1
+
+My Favorite Places 2016
+--------------------------
+1) Computer Sciences
+2) Health Sciences Learning Center
+3) Kohl Center
+4) Memorial Union
+5) Union South
+6) Waisman Center
+7) Washburn Observatory
+8) Wisconsin State Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : c
+Enter number of place to be Current place: 1
+Computer Sciences set as Current place.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Computer Sciences
+1) Computer Sciences (0.00 miles)
+2) Union South (0.08 miles)
+3) Washburn Observatory (0.40 miles)
+4) Kohl Center (0.49 miles)
+5) Memorial Union (0.50 miles)
+6) Wisconsin State Capital (1.16 miles)
+7) Health Sciences Learning Center (1.25 miles)
+8) Waisman Center (1.46 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : s
+Enter number of place to Show: 1
+Computer Sciences
+1210 West Dayton Street, Madison, WI  53706
+43.071392,-89.406681
+https://www.google.com/maps/place/1210+West+Dayton+Street%2C+Madison%2C+WI++53706/@43.071392,-89.406681,17z/
+Press Enter to continue.ksfjaksjfkd
+
+My Favorite Places 2016
+--------------------------
+distance from Computer Sciences
+1) Computer Sciences (0.00 miles)
+2) Union South (0.08 miles)
+3) Washburn Observatory (0.40 miles)
+4) Kohl Center (0.49 miles)
+5) Memorial Union (0.50 miles)
+6) Wisconsin State Capital (1.16 miles)
+7) Health Sciences Learning Center (1.25 miles)
+8) Waisman Center (1.46 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : quit
+
+My Favorite Places 2016
+--------------------------
+distance from Computer Sciences
+1) Computer Sciences (0.00 miles)
+2) Union South (0.08 miles)
+3) Washburn Observatory (0.40 miles)
+4) Kohl Center (0.49 miles)
+5) Memorial Union (0.50 miles)
+6) Wisconsin State Capital (1.16 miles)
+7) Health Sciences Learning Center (1.25 miles)
+8) Waisman Center (1.46 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : q
+Thank you for using My Favorite Places 2016!

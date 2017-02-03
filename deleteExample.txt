@@ -1,0 +1,36 @@
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : a
+Enter the name: Capital
+Enter the address: 1 e main st., madison wi
+
+My Favorite Places 2016
+--------------------------
+1) Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : s
+Enter number of place to Show: 1
+Capital
+1 E Main St, Madison, WI 53703, USA
+43.0739026,-89.3824326
+https://www.google.com/maps/place/1+E+Main+St%2C+Madison%2C+WI+53703%2C+USA/@43.0739026,-89.3824326,17z/
+Press Enter to continue. 
+
+My Favorite Places 2016
+--------------------------
+1) Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : d
+Enter number of place to Delete: 1
+Capital deleted.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : Q
+Thank you for using My Favorite Places 2016!

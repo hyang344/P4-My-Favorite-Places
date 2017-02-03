@@ -1,0 +1,166 @@
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : r
+Available Files:
+	uwplaces.mfp
+	uwplaces2.mfp
+	uwplacesNew.mfp
+
+Enter filename: uwplaces.mfp
+
+My Favorite Places 2016
+--------------------------
+1) Computer Sciences
+2) Health Sciences Learning Center
+3) Kohl Center
+4) Memorial Union
+5) Union South
+6) Waisman Center
+7) Washburn Observatory
+8) Wisconsin State Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : c
+Enter number of place to be Current place: 8
+Wisconsin State Capital set as Current place.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Wisconsin State Capital
+1) Wisconsin State Capital (0.00 miles)
+2) Kohl Center (0.76 miles)
+3) Memorial Union (0.79 miles)
+4) Computer Sciences (1.16 miles)
+5) Union South (1.23 miles)
+6) Washburn Observatory (1.32 miles)
+7) Health Sciences Learning Center (2.33 miles)
+8) Waisman Center (2.52 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : C
+Enter number of place to be Current place: 5
+Union South set as Current place.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Kohl Center (0.57 miles)
+6) Health Sciences Learning Center (1.17 miles)
+7) Wisconsin State Capital (1.23 miles)
+8) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : a
+Enter the name: henry vilas zoo
+Enter the address: 702 S Randall AVe, Madison WI
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Kohl Center (0.57 miles)
+6) henry vilas zoo (0.78 miles)
+7) Health Sciences Learning Center (1.17 miles)
+8) Wisconsin State Capital (1.23 miles)
+9) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : e
+Enter number of place to Edit: 6
+Current name: henry vilas zoo
+Enter a new name: Henry Vilas Zoo
+Current address: 702 S Randall Ave, Madison, WI 53715, USA
+Enter a new address: 702 S Randall Ave, Madison WI
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Kohl Center (0.57 miles)
+6) Henry Vilas Zoo (0.78 miles)
+7) Health Sciences Learning Center (1.17 miles)
+8) Wisconsin State Capital (1.23 miles)
+9) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : 6
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Kohl Center (0.57 miles)
+6) Henry Vilas Zoo (0.78 miles)
+7) Health Sciences Learning Center (1.17 miles)
+8) Wisconsin State Capital (1.23 miles)
+9) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : s
+Enter number of place to Show: 6
+Henry Vilas Zoo
+702 S Randall Ave, Madison, WI 53715, USA
+43.06061039999999,-89.410035
+https://www.google.com/maps/place/702+S+Randall+Ave%2C+Madison%2C+WI+53715%2C+USA/@43.06061039999999,-89.410035,17z/
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Kohl Center (0.57 miles)
+6) Henry Vilas Zoo (0.78 miles)
+7) Health Sciences Learning Center (1.17 miles)
+8) Wisconsin State Capital (1.23 miles)
+9) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : d
+Enter number of place to Delete: 5
+Kohl Center deleted.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Union South
+1) Union South (0.00 miles)
+2) Computer Sciences (0.08 miles)
+3) Washburn Observatory (0.35 miles)
+4) Memorial Union (0.54 miles)
+5) Henry Vilas Zoo (0.78 miles)
+6) Health Sciences Learning Center (1.17 miles)
+7) Wisconsin State Capital (1.23 miles)
+8) Waisman Center (1.38 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : c
+Enter number of place to be Current place: 5
+Henry Vilas Zoo set as Current place.
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+distance from Henry Vilas Zoo
+1) Henry Vilas Zoo (0.00 miles)
+2) Computer Sciences (0.76 miles)
+3) Union South (0.78 miles)
+4) Washburn Observatory (1.11 miles)
+5) Memorial Union (1.22 miles)
+6) Health Sciences Learning Center (1.54 miles)
+7) Wisconsin State Capital (1.63 miles)
+8) Waisman Center (1.72 miles)
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : q
+Thank you for using My Favorite Places 2016!

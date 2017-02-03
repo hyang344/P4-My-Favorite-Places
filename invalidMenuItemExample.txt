@@ -1,0 +1,68 @@
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : W
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : w
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : E
+
+My Favorite Places 2016
+--------------------------
+No places loaded.
+--------------------------
+A)dd R)ead Q)uit : a
+Enter the name: Capital
+Enter the address: 2 e main St., madison wi
+
+My Favorite Places 2016
+--------------------------
+1) Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : s
+Enter number of place to Show: 1
+Capital
+2 E Main St, Madison, WI 53703, USA
+43.074691,-89.3841678
+https://www.google.com/maps/place/2+E+Main+St%2C+Madison%2C+WI+53703%2C+USA/@43.074691,-89.3841678,17z/
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+1) Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : E
+Enter number of place to Edit: 1
+Current name: Capital
+Enter a new name: Wisconsin State Capital
+Current address: 2 E Main St, Madison, WI 53703, USA
+Enter a new address: 2 e main street, madison wi
+
+My Favorite Places 2016
+--------------------------
+1) Wisconsin State Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : S
+Enter number of place to Show: 1
+Wisconsin State Capital
+2 E Main St, Madison, WI 53703, USA
+43.074691,-89.3841678
+https://www.google.com/maps/place/2+E+Main+St%2C+Madison%2C+WI+53703%2C+USA/@43.074691,-89.3841678,17z/
+Press Enter to continue.
+
+My Favorite Places 2016
+--------------------------
+1) Wisconsin State Capital
+--------------------------
+A)dd S)how E)dit D)elete C)urrent R)ead W)rite Q)uit : q
+Thank you for using My Favorite Places 2016!
